@@ -24,7 +24,7 @@ import h5py
 from matplotlib import pyplot as plt
 from scipy import stats
 import scipy as scipy
-import sklearn.model_selection as sk
+#import sklearn.model_selection as sk
 #import modeldef_conv as mod
 
 def handle_input_data(read_data, preprocess_data, inputmat_name, outputmat_name):
